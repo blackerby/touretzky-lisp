@@ -219,3 +219,5 @@
       (> temp 100)
       (if (equal scale 'fahrenheit)
           (> temp 212))))
+
+;; remaining exercises done with pencil and paper
